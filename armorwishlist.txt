@@ -1,5 +1,9 @@
-// The Title - titan build for stoicism exotic
-//notes: stoicism tital build, Perk: spirit of severance and contact
+// Titan build for stoicism exotic
+//notes: stoicism Titan build, Perk: spirit of severance and contact
 dimwishlist:item=266021826&perks=3573490509,3573490504
+
+// Titan build for stoicism exotic
+//notes: stoicism Titan build, Perk: spirit of Inner Most Light and contact
+dimwishlist:item=266021826&perks=1476923953,3573490504
 
 
