@@ -1,0 +1,70 @@
+title:s26 wishlist4kc
+
+// The Title - smg guardian game title (god-pve,pve)
+//notes: masterwork: reload tags:god-pve,pve
+dimwishlist:item=55393445&perks=1482024992,1087426260,776531651,2048641572
+
+
+// Abyssal Edge - Abyssal GodRoll (god-pve,pve)
+//notes: tags:god-pve,pve
+dimwishlist:item=547165496&perks=2244851822,3201496230
+
+
+// The Slammer (Adept) - S-Tier Adept ()
+dimwishlist:item=1354727549&perks=2077819806,3650930298
+
+
+// Keraunios - Linear Fusion Rifle Guardian Game (pve,god-pve)
+//notes: CAP at grade A
+Masterwork: Handling tags:pve,god-pve
+dimwishlist:item=2029899814&perks=1840239774,2749775325,3713215006,3966416502,1702976605
+
+
+// IKELOS_SMG_v1.0.3 - smg s tier arc ()
+dimwishlist:item=2149683300&perks=1482024992,1140096971,2779035018,2173046394,566815328
+dimwishlist:item=2149683300&perks=1482024992,1140096971,2779035018,1720528630,566815328
+dimwishlist:item=2149683300&perks=1482024992,1140096971,494941759,2173046394,566815328
+dimwishlist:item=2149683300&perks=1482024992,1140096971,494941759,1720528630,566815328
+
+
+// Breachlight - good sidearm for pve contant (pve)
+//notes: for pve content tags:pve
+dimwishlist:item=2328923181&perks=923806249,831391274
+
+
+// Taraxippos - Taraxippos (god-pvp,pvp)
+//notes: masterwork: stability tags:god-pvp,pvp
+dimwishlist:item=2595813005&perks=1482024992,3177308360,2579169598,3038247973
+
+
+// The Slammer - S-Tier ()
+dimwishlist:item=2889501828&perks=2077819806,3650930298
+
+
+// Adamantite - STier autorfille (pve)
+//notes: tags:pve
+dimwishlist:item=3229982889&perks=839105230,3142289711,923806249,960997401,878237828
+
+
+// Adamantite - Adamantite S tier   ()
+dimwishlist:item=3229982889&perks=692399809,2298656195
+
+
+// Mirror Imago - S-Tier 1st place ()
+dimwishlist:item=3234363830&perks=839105230,3142289711,3643424744,31345821
+
+
+// Mirror Imago - S-tier 2nd ()
+dimwishlist:item=3234363830&perks=839105230,3142289711,3643424744,831391274
+
+
+// Mirror Imago - S-Tier 3rd place ()
+dimwishlist:item=3234363830&perks=839105230,3142289711,3643424744,365154968
+
+
+// Refusal of the Call - Refusal GodRoll (god-pve)
+//notes: masterwork: Handling tags:god-pve
+dimwishlist:item=3269398063&perks=5699512,3721627275,3978468247,31345821,878237828
+
+
+
