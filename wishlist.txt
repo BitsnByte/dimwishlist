@@ -50,6 +50,11 @@ dimwishlist:item=3229982889&perks=839105230,3142289711,923806249,960997401,87823
 dimwishlist:item=3229982889&perks=692399809,2298656195
 
 
+// Adamantite - Stier  (pve)
+//notes: tags:pve
+dimwishlist:item=3229982889&perks=1820235745,831391274
+
+
 // Mirror Imago - S-Tier 1st place ()
 dimwishlist:item=3234363830&perks=839105230,3142289711,3643424744,31345821
 
@@ -65,6 +70,4 @@ dimwishlist:item=3234363830&perks=839105230,3142289711,3643424744,365154968
 // Refusal of the Call - Refusal GodRoll (god-pve)
 //notes: masterwork: Handling tags:god-pve
 dimwishlist:item=3269398063&perks=5699512,3721627275,3978468247,31345821,878237828
-
-
 
