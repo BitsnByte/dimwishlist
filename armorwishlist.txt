@@ -2,8 +2,4 @@
 //notes: stoicism tital build
 dimwishlist:item=266021826&perks=3573490509,3573490504
 
-// The Title - titan build for stoicism exotic
-//notes: stoicism tital build
-dimwishlist:item=266021826&perks=3573490509,3573490504
-
 
