@@ -76,6 +76,10 @@ dimwishlist:item=3269398063&perks=5699512,3721627275,3978468247,31345821,8782378
 dimwishlist:item=3229982889&perks=692399809,2298656195
 
 // Adamantite - STier autorfille (pve)
+//notes: tags:pve perk: reciprocity and circle of life
+dimwishlist:item=2987244302&perks=692399809,2298656195
+
+// Adamantite - STier autorfille (pve)
 //notes: tags:pve perk: slice and tier
 dimwishlist:item=3229982889&perks=923806249,960997401
 
