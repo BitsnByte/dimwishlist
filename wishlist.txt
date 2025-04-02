@@ -83,3 +83,10 @@ dimwishlist:item=2987244302&perks=692399809,2298656195
 //notes: tags:pve perk: slice and tier
 dimwishlist:item=3229982889&perks=923806249,960997401
 
+//Tanashi's Master Sidearm
+//Notes: stasis sidearm, perks: airborn, chilclip
+dimwishlist:item=480368036&perks=1421772400,2978966579
+
+//Tanashi's Master Sidearm
+//Notes: stasis sidearm, perks: impulse amplifier, chilclip
+dimwishlist:item=480368036&perks=951095735,2978966579
