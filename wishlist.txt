@@ -90,3 +90,16 @@ dimwishlist:item=480368036&perks=1421772400,2978966579
 //Tanashi's Master Sidearm
 //Notes: stasis sidearm, perks: impulse amplifier, chilclip
 dimwishlist:item=480368036&perks=951095735,2978966579
+
+//Relentless Pulse Rifle, Stier
+//notes: Stier strand pulse rifle. rapid hit, head seeker
+dimwishlist:item=435821041&perks=247725512,460017080
+
+//Relentless Pulse Rifle, Stier
+//notes: Stier strand pulse rifle. Keep away, head seeker
+dimwishlist:item=435821041&perks=3619207468,460017080
+
+
+//Darkest before. Pulse Rifle, Stier
+//notes: Stier solar pulse rifle. heal clip, kill clip
+dimwishlist:item=435821040&perks=3017780555,1015611457
