@@ -103,3 +103,13 @@ dimwishlist:item=435821041&perks=3619207468,460017080
 //Darkest before. Pulse Rifle, Stier
 //notes: Stier solar pulse rifle. heal clip, kill clip
 dimwishlist:item=435821040&perks=3017780555,1015611457
+
+//Marty's Retribution, grenade launcher
+//notes: Stier,  envious assassin and incadescent;  solar
+dimwishlist:item=2584830733&perks=968510818,4293542123
+
+//Marty's Retribution, grenade launcher
+//notes: Stier,  heal clip and incadescent;  solar
+dimwishlist:item=2584830733&perks=3017780555,4293542123
+
+
