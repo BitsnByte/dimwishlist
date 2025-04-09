@@ -112,4 +112,8 @@ dimwishlist:item=2584830733&perks=968510818,4293542123
 //notes: Stier,  heal clip and incadescent;  solar
 dimwishlist:item=2584830733&perks=3017780555,4293542123
 
+//Rake Angle (Adept) Stier
+//notes: Stier, glaive adept
+dimwishlist:item=3997086838&perks=1966281507,2978966579,744217850
+
 
