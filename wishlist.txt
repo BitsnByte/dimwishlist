@@ -116,4 +116,7 @@ dimwishlist:item=2584830733&perks=3017780555,4293542123
 //notes: Stier, glaive adept
 dimwishlist:item=3997086838&perks=1966281507,2978966579,744217850
 
+//Fate Bringer HC Stier perk
+//notes: Stier HC. Perk: explosive payload and firefly
+dimwishlist:item=2171478765&perks=3038247973,3824105627
 
