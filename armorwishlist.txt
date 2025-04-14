@@ -1,9 +1,19 @@
 // Titan build for stoicism exotic
-//notes: stoicism Titan build, Perk: spirit of severance and contact
-dimwishlist:item=266021826&perks=3573490509,3573490504
+//notes: stoicism Titan build, #1 Perk: InMost and Synto
+dimwishlist:item=266021826&perks=1476923953,1476923956
 
 // Titan build for stoicism exotic
-//notes: stoicism Titan build, Perk: spirit of Inner Most Light and contact
+//notes: stoicism Titan build, #2 Perk: InMost and Star Eater
+dimwishlist:item=266021826&perks=1476923953,1476923955
+
+// Titan build for stoicism exotic
+//notes: stoicism Titan build, #3 Perk: InMost and contact
 dimwishlist:item=266021826&perks=1476923953,3573490504
 
+// Titan build for stoicism exotic
+//notes: stoicism Titan build, #4 Perk: Assassin and Syntho
+dimwishlist:item=266021826&perks=1476923952,1476923956
 
+// Titan build for stoicism exotic
+//notes: stoicism Titan build, Perk: spirit of severance and contact
+dimwishlist:item=266021826&perks=3573490509,3573490504
