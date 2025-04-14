@@ -6,13 +6,16 @@ dimwishlist:item=55393445&perks=1482024992,1087426260,776531651,2048641572
 
 
 // Abyssal Edge - Abyssal GodRoll (god-pve,pve)
-//notes: tags:god-pve,pve
-dimwishlist:item=547165496&perks=2244851822,3201496230
-
+//notes: tags:god-pve,pve perk: counter and surround
+dimwishlist:item=4221591387&perks=2244851822,3708227201,120721526
 
 // The Slammer (Adept) - S-Tier Adept ()
-dimwishlist:item=1354727549&perks=2077819806,3650930298,744217850
+//notes: perk: counter and rediretion
+dimwishlist:item=3054597646&perks=2244851822,3201496230,878237828
 
+// The Slammer (Adept) - S-Tier Adept ()
+//notes: perk: counter and surround
+dimwishlist:item=3054597646&perks=2244851822,3708227201,878237828
 
 // Keraunios - Linear Fusion Rifle Guardian Game (pve,god-pve)
 //notes: CAP at grade A
