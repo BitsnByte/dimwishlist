@@ -125,4 +125,4 @@ dimwishlist:item=2171478765&perks=3038247973,3824105627
 
 //Ergo sum arch conductor
 //notes: egro sum arc conducter with casterframe
-dimwishlist:item=1681583613&perks=2557881346
+dimwishlist:item=1681583613&perks=519046634
