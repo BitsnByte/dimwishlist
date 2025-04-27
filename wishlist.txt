@@ -126,3 +126,35 @@ dimwishlist:item=2171478765&perks=3038247973,3824105627
 //Ergo sum arch conductor
 //notes: egro sum arc conducter with casterframe
 dimwishlist:item=1681583613&perks=519046634
+
+//HC Palindrome
+//notes: exploit payload, magnificient howl
+dimwishlist:item=2876244791&perks=3142289711,3038247973,2720533289,1281216113
+
+//HC Palindrome
+//notes: exploit payload, rolling storm
+dimwishlist:item=2876244791&perks=3142289711,3038247973,3218042543,1281216113
+
+//HC Palindrome
+//notes: exploit payload, master of arms
+dimwishlist:item=2876244791&perks=3142289711,3038247973,3081867624,1281216113
+
+//HC Palindrome
+//notes: exploit payload, desparate measure
+dimwishlist:item=2876244791&perks=3142289711,3038247973,2109543898,1281216113
+
+//HC Palindrome adept
+//notes: exploit payload, magnificient howl
+dimwishlist:item=4077588826&perks=3142289711,3038247973,2720533289,1281216113
+
+//HC Palindrome adept
+//notes: exploit payload, rolling storm
+dimwishlist:item=4077588826&perks=3142289711,3038247973,3218042543,1281216113
+
+//HC Palindrome adept
+//notes: exploit payload, master of arms
+dimwishlist:item=4077588826&perks=3142289711,3038247973,3081867624,1281216113
+
+//HC Palindrome adept
+//notes: exploit payload, desparate measure
+dimwishlist:item=4077588826&perks=3142289711,3038247973,2109543898,1281216113
