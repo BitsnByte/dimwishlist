@@ -174,3 +174,7 @@ dimwishlist:item=3106557243&perks=2579169598,1194056669,1281216113
 //Arc Fusion, plug one adept PVP god roll
 //notes: underpressure, closing time
 dimwishlist:item=3106557243&perks=1645158859,1194056669,1281216113
+
+//Agape HC
+//notes: god roll for PVP, stability or range.  perk 1: moving target or encore
+dimwishlist:item=4124362340&perks=1482024992,1885400500,588594999,555281244,1906137414
