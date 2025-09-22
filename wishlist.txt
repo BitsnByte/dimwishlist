@@ -176,5 +176,18 @@ dimwishlist:item=3106557243&perks=2579169598,1194056669,1281216113
 dimwishlist:item=3106557243&perks=1645158859,1194056669,1281216113
 
 //Agape HC
-//notes: god roll for PVP, stability or range.  perk 1: moving target or encore
+//notes: god roll for PVP, Master work: stability or range.  perk 1: moving target or encore
 dimwishlist:item=4124362340&perks=1482024992,1885400500,588594999,555281244,1906137414
+
+//Finite impactor
+//notes: god roll for PVP, master work: range
+dimwishlist:item=1917334929&perks=3250034553,1885400500,2451262963,555281244,1292971594
+
+//Phoneutria Fera
+//notes: god roll for PVP, master work: range perk: slide shot and swashbuckling
+dimwishlist:item=3496887154&perks=3250034553,3142289711,3161816588,4082225868,3911709647
+
+//Phoneutria Fera
+//notes: god roll for PVP, master work: range
+dimwishlist:item=3496887154&perks=3250034553,3142289711,3161816588,2679249093,3911709647
+
