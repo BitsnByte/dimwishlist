@@ -191,3 +191,7 @@ dimwishlist:item=3496887154&perks=3250034553,3142289711,3161816588,4082225868,39
 //notes: god roll for PVP, master work: range
 dimwishlist:item=3496887154&perks=3250034553,3142289711,3161816588,2679249093,3911709647
 
+//Last Thursday, pulse rilfe
+//notes: god roll pvp, master work: range
+dimwishlist:item=3813721211&perks=839105230,1885400500,247725512,460017080,1906137414
+
