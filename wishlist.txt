@@ -183,19 +183,17 @@ dimwishlist:item=4124362340&perks=1482024992,1885400500,588594999,555281244,1906
 //notes: god roll for PVP, master work: range
 dimwishlist:item=1917334929&perks=3250034553,1885400500,2451262963,555281244,1292971594
 
-//Phoneutria Fera
-//notes: god roll for PVP, master work: range perk: slide shot and swashbuckling
-dimwishlist:item=3496887154&perks=3250034553,3142289711,3161816588,4082225868,3911709647
-
-//Phoneutria Fera
-//notes: god roll for PVP, master work: range barrel: hammer forge rifling
-dimwishlist:item=3496887154&perks=3250034553,3142289711,3161816588,2679249093,3911709647
-
-//Phoneutria Fera
+//Phoneutria Fera HC
 //notes: god roll for PVP, master work: range barrel: hammer forge rifling
 dimwishlist:item=3496887154&perks=1467527085,3142289711,3161816588,4082225868,3911709647
+dimwishlist:item=3496887154&perks=3250034553,3142289711,3161816588,2679249093,3911709647
+dimwishlist:item=3496887154&perks=3250034553,3142289711,3161816588,4082225868,3911709647
 
-//Last Thursday, pulse rilfe
-//notes: god roll pvp, master work: range
+//Last Thursday, pulse rifle
+//notes: god roll pvp, master work: range, barrel: Arrowhead Break
 dimwishlist:item=3813721211&perks=839105230,1885400500,247725512,460017080,1906137414
+dimwishlist:item=3813721211&perks=839105230,1885400500,3731491409,460017080,1906137414
+dimwishlist:item=3813721211&perks=839105230,1885400500,1918398421,460017080,1906137414
+
+
 
