@@ -176,8 +176,9 @@ dimwishlist:item=3106557243&perks=2579169598,1194056669,1281216113
 dimwishlist:item=3106557243&perks=1645158859,1194056669,1281216113
 
 //Agape HC
-//notes: god roll for PVP, Master work: stability or range.  perk 1: moving target or encore
-dimwishlist:item=4124362340&perks=1482024992,1885400500,588594999,555281244,1906137414
+//notes: god roll for PVP, Master work: stability or range.  
+dimwishlist:item=4124362340&perks=1482024992,1885400500,588594999,555281244
+dimwishlist:item=4124362340&perks=1482024992,1885400500,1195158366,555281244
 
 //Finite impactor
 //notes: god roll for PVP, master work: range
