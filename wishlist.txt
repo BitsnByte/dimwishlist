@@ -1,4 +1,4 @@
-title:s26 wishlist4kc
+title:Weapons wishlist4kc
 
 // The Title - smg guardian game title (god-pve,pve)
 //notes: masterwork: reload tags:god-pve,pve
