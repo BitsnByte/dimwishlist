@@ -254,6 +254,14 @@ dimwishlist:item=1411560894&perks=1428297954,1015611457
 dimwishlist:item=1411560894&perks=3731491409,699525795
 dimwishlist:item=1411560894&perks=3731491409,1015611457
 
+//notes: tags:god-pvp, tagsMastework range tags: 3rd column perk
+dimwishlist:item=1411560894&perks=1428297954
+dimwishlist:item=1411560894&perks=3731491409
+
+//notes: tags:god-pvp, tagsMastework range tags: 4th column perk
+dimwishlist:item=1411560894&perks=699525795
+dimwishlist:item=1411560894&perks=1015611457
+
 //Aisha’s Embrace PvP god rolls
 //Notes: Aisha’s Embrace PvP god rolls, Masterwork: stability
 dimwishlist:item=3709368142&perks=1392496348,3177308360,3619207468,555281244,1673863459
