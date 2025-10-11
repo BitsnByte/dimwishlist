@@ -10,7 +10,7 @@ dimwishlist:item=55393445&perks=1482024992,1087426260,776531651,2048641572
 dimwishlist:item=4221591387&perks=2244851822,3708227201,120721526
 
 // The Slammer (Adept) - S-Tier Adept ()
-//notes: perk: counter and rediretion
+//notes: perk: counter and redirection
 dimwishlist:item=3054597646&perks=2244851822,3201496230,878237828
 
 // The Slammer (Adept) - S-Tier Adept ()
@@ -291,11 +291,12 @@ dimwishlist:item=1663482635&perks=1955165503,124408337
 //Forced Memorializer
 //notes: tags:god-pvp tags:masterwork stability
 dimwishlist:item=1197073834&perks=839105230,3177308360,3038247973,3938834702
+dimwishlist:item=1197073834&perks=839105230,3177308360,3038247973,2458213969
+dimwishlist:item=1197073834&perks=839105230,3177308360,247725512,3938834702
+dimwishlist:item=1197073834&perks=839105230,3177308360,247725512,2458213969
+
 //notes: tags:god-pvp tags:barrael & mag
 dimwishlist:item=1197073834&perks=839105230,3177308360
-
-
-
 
 //notes: tags:god-pvp tags:masterwork stability tags:perk
 dimwishlist:item=1197073834&perks=3038247973,3938834702
