@@ -280,9 +280,31 @@ dimwishlist:item=4090134063&perks=839105230,3177308360,247725512,124408337,41399
 dimwishlist:item=4090134063&perks=839105230,3177308360,1955165503,124408337,4139916815
 dimwishlist:item=4090134063&perks=839105230,3177308360,1955165503,3038247973,4139916815
 
+//FAUSTUS DECLINE
+//notes: tags:god-pvp tags:barrael & mag
+dimwishlist:item=1663482635&perks=1840239774,1087426260
+//notes: tags:god-pvp tags:perks
+dimwishlist:item=1663482635&perks=2579169598,1015611457
+//notes: tags:god-pve tags:perks
+dimwishlist:item=1663482635&perks=1955165503,124408337
 
+//Forced Memorializer
+//notes: tags:god-pvp tags:barrael & mag
+dimwishlist:item=1197073834&perks=839105230,3177308360
+//notes: tags:god-pvp tags:masterwork stability
+dimwishlist:item=1197073834&perks=3038247973,3938834702
+dimwishlist:item=1197073834&perks=3038247973,2458213969
+dimwishlist:item=1197073834&perks=247725512,3938834702
+dimwishlist:item=1197073834&perks=247725512,2458213969
 
+//notes: tags:god-pve tags:masterwork stability or reload
+dimwishlist:item=1197073834&perks=839105230,1087426260
 
-
-
+//notes: tags:god-pve tags:masterwork stability or reload
+dimwishlist:item=1197073834&perks=3038247973,1089671869
+dimwishlist:item=1197073834&perks=3038247973,3891536761
+dimwishlist:item=1197073834&perks=247725512,1089671869
+dimwishlist:item=1197073834&perks=247725512,3891536761
+dimwishlist:item=1197073834&perks=3700496672,1089671869
+dimwishlist:item=1197073834&perks=3700496672,3891536761
 
