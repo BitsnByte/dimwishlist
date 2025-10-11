@@ -289,9 +289,15 @@ dimwishlist:item=1663482635&perks=2579169598,1015611457
 dimwishlist:item=1663482635&perks=1955165503,124408337
 
 //Forced Memorializer
+//notes: tags:god-pvp tags:masterwork stability
+dimwishlist:item=1197073834&perks=839105230,3177308360,3038247973,3938834702
 //notes: tags:god-pvp tags:barrael & mag
 dimwishlist:item=1197073834&perks=839105230,3177308360
-//notes: tags:god-pvp tags:masterwork stability
+
+
+
+
+//notes: tags:god-pvp tags:masterwork stability tags:perk
 dimwishlist:item=1197073834&perks=3038247973,3938834702
 dimwishlist:item=1197073834&perks=3038247973,2458213969
 dimwishlist:item=1197073834&perks=247725512,3938834702
