@@ -286,16 +286,31 @@ dimwishlist:item=2699423382&perks=2860123632,3267421167,494941759,1370847713
 dimwishlist:item=2699423382&perks=2860123632,3267421167,4071163871,3955464425
 
 //Jurisprudent PvP god rolls
-//notes: kc pvp god roll. tags:god-pvp
-dimwishlist:item=4090134063&perks=839105230,3142289711,247725512,3038247973,4139916815
-dimwishlist:item=4090134063&perks=839105230,3142289711,2579169598,3038247973,4139916815
+//notes: kc pvp god roll. tags:god-pvp tags:masterwork stability tags:rapidhit,explosive payload
+dimwishlist:item=4090134063&perks=839105230,3142289711,247725512,3038247973
+//notes: kc pvp god roll. tags:god-pvp tags:masterwork stability tags:lone wolf,explosive payload
+dimwishlist:item=4090134063&perks=839105230,3142289711,2579169598,3038247973
+//notes: kc pvp god roll. tags:god-pvp tags:masterwork stability tags:arrow head break, accurazie round
+dimwishlist:item=4090134063&perks=839105230,3142289711
+//notes: kc pvp god roll. tags:god-pvp tags:masterwork stability tags:pvp-perks
+dimwishlist:item=4090134063&perks=247725512,3038247973
+dimwishlist:item=4090134063&perks=2579169598,3038247973
 
 //Jurisprudent PVE god rolls
-//notes: kc pve god roll. tags:god-pve
-dimwishlist:item=4090134063&perks=839105230,3177308360,247725512,3038247973,4139916815
-dimwishlist:item=4090134063&perks=839105230,3177308360,247725512,124408337,4139916815
-dimwishlist:item=4090134063&perks=839105230,3177308360,1955165503,124408337,4139916815
-dimwishlist:item=4090134063&perks=839105230,3177308360,1955165503,3038247973,4139916815
+//notes: kc pve god roll. tags:god-pve tags:masterwork stability,reload
+dimwishlist:item=4090134063&perks=839105230,3177308360,247725512,3038247973
+dimwishlist:item=4090134063&perks=839105230,3177308360,247725512,124408337
+dimwishlist:item=4090134063&perks=839105230,3177308360,1955165503,124408337
+dimwishlist:item=4090134063&perks=839105230,3177308360,1955165503,3038247973
+
+//notes: kc pve god roll. tags:god-pve tags:masterwork stability,reload tags:arrowhead brake, steady round
+dimwishlist:item=4090134063&perks=839105230,3177308360
+
+//notes: kc pve god roll. tags:god-pve tags:masterwork stability,reload tags:pve-perks
+dimwishlist:item=4090134063&perks=247725512,3038247973
+dimwishlist:item=4090134063&perks=247725512,124408337
+dimwishlist:item=4090134063&perks=1955165503,124408337
+dimwishlist:item=4090134063&perks=1955165503,3038247973
 
 //FAUSTUS DECLINE
 //notes: tags:god-pvp tags:barrael & mag
