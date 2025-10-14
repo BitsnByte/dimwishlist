@@ -391,4 +391,21 @@ dimwishlist:item=3635232671&perks=1955165503,124408337
 dimwishlist:item=3635232671&perks=1955165503,555281244
 dimwishlist:item=3635232671&perks=1955165503,2978966579
 
+//agape handcannon
+//notes: tags:god-pvp tags:masterwork stability, range
+dimwishlist:item=4124362340&perks=1482024992,1885400500,588594999,555281244
+dimwishlist:item=4124362340&perks=1482024992,1885400500,1195158366,555281244
+//notes: tags:god-pvp tags:small bore, richochet round
+dimwishlist:item=4124362340&perks=1482024992,1885400500
+//notes: tags:god-pvp tags: pvp perks
+dimwishlist:item=4124362340&perks=588594999,555281244
+dimwishlist:item=4124362340&perks=1195158366,555281244
 
+//notes: tags:god-pve tags:masterwork reload 
+dimwishlist:item=4124362340&perks=1840239774,3230963543,3017780555,4293542123
+dimwishlist:item=4124362340&perks=1840239774,3230963543,3017780555,3824105627
+//notes: tags:god-pve tags:masterwork reload tags: fluted barrel, flare magwell
+dimwishlist:item=4124362340&perks=1840239774,3230963543
+//notes: tags:god-pve tags:masterwork reload tags:pve perks
+dimwishlist:item=4124362340&perks=3017780555,4293542123
+dimwishlist:item=4124362340&perks=3017780555,3824105627
