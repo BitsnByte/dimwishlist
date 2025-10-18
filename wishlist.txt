@@ -442,3 +442,30 @@ dimwishlist:item=4124362340&perks=1840239774,3230963543
 //notes: tags:god-pve tags:masterwork reload tags:pve perks
 dimwishlist:item=4124362340&perks=3017780555,4293542123
 dimwishlist:item=4124362340&perks=3017780555,3824105627
+
+//mida mini tool smg
+//notes: tags:god-pvp tags:pvp tier B tags: masterwork range
+dimwishlist:item=3946054154&perks=1482024992,1885400500,1428297954,3081867624
+dimwishlist:item=3946054154&perks=1482024992,1885400500,1428297954,3764420437
+
+//notes: tags:god-pve tags:pve tier S tags: masterwork reload speed
+dimwishlist:item=3946054154&perks=1840239774,3230963543,3017780555,4293542123
+dimwishlist:item=3946054154&perks=1840239774,3230963543,3017780555,2890807135
+dimwishlist:item=3946054154&perks=1840239774,3230963543,243981275,4293542123
+dimwishlist:item=3946054154&perks=1840239774,3230963543,243981275,2890807135
+
+//notes: tags:god-pvp tags:pvp tier B tags: masterwork range tags:small bore, accurrized round
+dimwishlist:item=3946054154&perks=1482024992,1885400500
+
+//notes: tags:god-pvp tags:pvp tier B tags: masterwork range tags:perks
+dimwishlist:item=3946054154&perks=1428297954,3081867624
+dimwishlist:item=3946054154&perks=1428297954,3764420437
+
+//notes: tags:god-pve tags:pve tier S tags: masterwork reload speed tags:fluted barrel, flared magwell
+dimwishlist:item=3946054154&perks=1840239774,3230963543
+
+//notes: tags:god-pve tags:pve tier S tags: masterwork reload speed tags:perks
+dimwishlist:item=3946054154&perks=3017780555,4293542123
+dimwishlist:item=3946054154&perks=3017780555,2890807135
+dimwishlist:item=3946054154&perks=243981275,4293542123
+dimwishlist:item=3946054154&perks=243981275,2890807135
