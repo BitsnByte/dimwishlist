@@ -1,0 +1,47 @@
+dim armor query
+name:"disaster" -is:indimloadout -is:iningameloadout stat:resilience:>=0 stat:strength:>=0 stat:discipline:>=0 stat:intellect:>=0 stat:recovery:>=0 stat:mobility:>=0
+
+
+name:"disaster" -is:indimloadout -is:iningameloadout stat:resilience:>=0 stat:strength:>=30 stat:discipline:>=0 stat:intellect:>=0 stat:recovery:>=0 stat:mobility:>=0
+name:"disaster" stat:resilience:>=0 stat:strength:>=30 stat:discipline:>=20 stat:intellect:>=0 stat:recovery:>=0 stat:mobility:>=25
+
+
+name:"disaster" stat:resilience:>=0 stat:strength:>=0 stat:discipline:>=0 stat:intellect:>=0 stat:recovery:>=0 stat:mobility:>=30
+name:"disaster" stat:resilience:>=0 stat:strength:>=0 stat:discipline:>=30 stat:intellect:>=0 stat:recovery:>=0 stat:mobility:>=0
+name:"disaster" stat:resilience:>=30 stat:strength:>=0 stat:discipline:>=0 stat:intellect:>=0 stat:recovery:>=0 stat:mobility:>=0
+name:"disaster" stat:resilience:>=0 stat:strength:>=0 stat:discipline:>=0 stat:intellect:>=0 stat:recovery:>=30 stat:mobility:>=0
+name:"disaster" stat:resilience:>=0 stat:strength:>=0 stat:discipline:>=0 stat:intellect:>=30 stat:recovery:>=0 stat:mobility:>=0
+
+
+name:"two" stat:resilience:>=0 stat:strength:>=30 stat:discipline:>=0 stat:intellect:>=0 stat:recovery:>=0 stat:mobility:>=0
+
+name:"last" stat:resilience:>=0 stat:strength:>=30 stat:discipline:>=0 stat:intellect:>=0 stat:recovery:>=0 stat:mobility:>=0
+
+name:"bushido" stat:resilience:>=0 stat:strength:>=30 stat:discipline:>=0 stat:intellect:>=0 stat:recovery:>=0 stat:mobility:>=0
+name:"bushido" stat:resilience:>=0 stat:strength:>=0 stat:discipline:>=0 stat:intellect:>=0 stat:recovery:>=0 stat:mobility:>=30
+
+name:"smoke" stat:resilience:>=0 stat:strength:>=30 stat:discipline:>=0 stat:intellect:>=0 stat:recovery:>=0 stat:mobility:>=0
+
+
+
+
+======
+(exactperk:paragon and tertiarystat:grenade) or (exactperk:paragon and tertiarystat:class) or (exactperk:paragon and tertiarystat:weapons) or (exactperk:gunner and tertiarystat:melee) or (exactperk:gunner and tertiarystat:super) or (exactperk:gunner and tertiarystat:class) basestat:total:75 is:titan
+
+
+basestat:total:75 is:titan  -notes:#paragon
+basestat:total:75 is:titan -is:iningameloadout -is:indimloadout -notes:#paragon
+
+basestat:total:75 is:titan is:iningameloadout is:indimloadout tag:junk
+basestat:total:75 is:titan is:iningameloadout is:indimloadout tag:infuse
+
+
+=============
+#Gunner
+(exactperk:gunner and tertiarystat:melee) or (exactperk:gunner and tertiarystat:super) or (exactperk:gunner and tertiarystat:class) basestat:total:75 is:titan
+
+#Paragon
+(exactperk:paragon and tertiarystat:grenade) or (exactperk:paragon and tertiarystat:class) or (exactperk:paragon and tertiarystat:weapons) basestat:total:75 is:titan
+
+
+
