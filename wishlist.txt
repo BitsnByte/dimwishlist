@@ -532,3 +532,15 @@ dimwishlist:item=3328019216&perks=1840239774
 //notes: tags: "masterwork handling" tags:god-pve tags: "grade B PVE, grade C PVP" tags: perks
 dimwishlist:item=3328019216&perks=1354429876,555281244
 dimwishlist:item=3328019216&perks=1354429876,3764420437
+
+//Hunter Class exotic
+//notes: tags: god-tier
+dimwishlist:item=2809120022&perks=1476923953,1476923956
+
+//Titan Class exotic
+//notes: tags: god-tier
+dimwishlist:item=266021826&perks=1476923953,1476923956
+
+//Warlock Class exotic
+//notes: tags: god-tier
+dimwishlist:item=2273643087&perks=1476923953,1476923956
