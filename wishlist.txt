@@ -515,3 +515,20 @@ dimwishlist:item=2347178967&perks=2579169598,460017080
 dimwishlist:item=2347178967&perks=3619207468,3047969693
 dimwishlist:item=2347178967&perks=3619207468,460017080
 
+//wildstyle grenadeLauncher
+//notes: tags: "My wish list"
+dimwishlist:item=959037361&perks=981914802,3032599245,1523832109,4293542123
+dimwishlist:item=959037361&perks=981914802,3032599245
+dimwishlist:item=959037361&perks=1523832109,4293542123
+
+//Arcane Embrace
+//notes: tags: "masterwork handling" tags:god-pve tags: "grade B PVE, grade C PVP"
+dimwishlist:item=3328019216&perks=1840239774,106909392,1354429876,555281244
+dimwishlist:item=3328019216&perks=1840239774,106909392,1354429876,3764420437
+
+//notes: tags: "masterwork handling" tags:god-pve tags: "grade B PVE, grade C PVP" tags: barrel
+dimwishlist:item=3328019216&perks=1840239774
+
+//notes: tags: "masterwork handling" tags:god-pve tags: "grade B PVE, grade C PVP" tags: perks
+dimwishlist:item=3328019216&perks=1354429876,555281244
+dimwishlist:item=3328019216&perks=1354429876,3764420437
