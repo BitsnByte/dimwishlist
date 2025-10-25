@@ -556,3 +556,16 @@ dimwishlist:item=2273643087&perks=183430252,183430247
 
 //notes: tags: god-tier tags: "assassin, syntoceps"
 dimwishlist:item=2273643087&perks=1476923952,1476923956
+
+#Hunter
+//notes: tags: god-tier tags: "Inmost ,Cyrtarachne"
+dimwishlist:item=2809120022&perks=1476923953,3751917994
+
+//notes: tags: god-tier tags: "Galanor ,Star-Eater"
+dimwishlist:item=2809120022&perks=3751917998,1476923955
+
+//notes: tags: god-tier tags: "Ophidian ,Wormhusk"
+dimwishlist:item=2809120022&perks=1476923954,3751917991
+
+//notes: tags: god-tier tags: "Syntho ,Caliban"
+dimwishlist:item=2809120022&perks=3751917996,1476923956
