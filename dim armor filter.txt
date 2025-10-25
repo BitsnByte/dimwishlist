@@ -44,4 +44,12 @@ basestat:total:75 is:titan is:iningameloadout is:indimloadout tag:infuse
 (exactperk:paragon and tertiarystat:grenade) or (exactperk:paragon and tertiarystat:class) or (exactperk:paragon and tertiarystat:weapons) basestat:total:75 is:titan
 
 
+=======Class item===========
+#all class items:
+perkname:"inmost" perkname:"synthoceps"
 
+#Warlock
+(name:Solipsism)  perkname:"apotheosis"  perkname:"star-eater"
+(name:Solipsism)  perkname:"necrotic"  perkname:"claw"
+(name:Solipsism)  perkname:"assassin"  perkname:"synthoceps"
+(name:Solipsism)  perkname:"filaments" perkname:"starfire"
