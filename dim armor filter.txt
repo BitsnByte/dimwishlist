@@ -53,3 +53,13 @@ perkname:"inmost" perkname:"synthoceps"
 (name:Solipsism)  perkname:"necrotic"  perkname:"claw"
 (name:Solipsism)  perkname:"assassin"  perkname:"synthoceps"
 (name:Solipsism)  perkname:"filaments" perkname:"starfire"
+
+#Hunter
+Inmost + Cyrtarachne:
+Galanor + Star-Eater: https://dim.gg/e5ky7iq/GM-Hunter
+Ophidian + Wormhusk: https://dim.gg/2i5eo2y/Void
+Syntho + Caliban: https://dim.gg/cawwguq/BOOM-STICK
+
+(name:Relativism) perkname:"galanor" perkname:"star-eater"
+(name:Relativism) perkname:"ophidian" perkname:"wormhusk"
+(name:Relativism) perkname:"synthoceps" perkname:"caliban"
