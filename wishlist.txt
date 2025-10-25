@@ -534,13 +534,25 @@ dimwishlist:item=3328019216&perks=1354429876,555281244
 dimwishlist:item=3328019216&perks=1354429876,3764420437
 
 //Hunter Class exotic
-//notes: tags: god-tier
+//notes: tags: god-tier tags: "inmost, syntho"
 dimwishlist:item=2809120022&perks=1476923953,1476923956
 
 //Titan Class exotic
-//notes: tags: god-tier
+//notes: tags: god-tier tags: ""inmost, syntho"
 dimwishlist:item=266021826&perks=1476923953,1476923956
 
 //Warlock Class exotic
-//notes: tags: god-tier
+//notes: tags: god-tier tags: "inmost, syntho"
 dimwishlist:item=2273643087&perks=1476923953,1476923956
+
+//notes: tags: god-tier tags: "filaments,starfire"
+dimwishlist:item=2273643087&perks=183430255,183430249
+
+//notes: tags: god-tier tags: "apotheosis,star-eater"
+dimwishlist:item=2273643087&perks=183430250,1476923955
+
+//notes: tags: god-tier tags: "necrotic, claw"
+dimwishlist:item=2273643087&perks=183430252,183430247
+
+//notes: tags: god-tier tags: "assassin, syntoceps"
+dimwishlist:item=2273643087&perks=1476923952,1476923956
