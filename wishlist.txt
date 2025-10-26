@@ -585,3 +585,28 @@ dimwishlist:item=3926153598&perks=3987942396,555281244
 dimwishlist:item=3926153598&perks=3987942396,1546637391
 dimwishlist:item=3926153598&perks=247725512,555281244
 dimwishlist:item=3926153598&perks=247725512,1546637391
+
+//seraphine haze smg
+//notes: tags:god-pve tags:"grade B for pve and pvp" tags:"masterwork stability or reload"
+dimwishlist:item=1524387902&perks=1840239774,3230963543,3523296417,2922950962
+dimwishlist:item=1524387902&perks=1840239774,3230963543,1820235745,2922950962
+dimwishlist:item=1524387902&perks=1840239774,3230963543,1820235745,2109543898
+dimwishlist:item=1524387902&perks=1840239774,3230963543,3523296417,2109543898
+
+//notes: tags:god-pve tags:"grade B for pve and pvp" tags:"masterwork stability or reload" tags:"fluted,flare magwell"
+dimwishlist:item=1524387902&perks=1840239774,3230963543
+
+//notes: tags:god-pvp tags:"grade B for pve and pvp" tags:"masterwork range"
+dimwishlist:item=1524387902&perks=3250034553,3142289711,1359896290,365154968
+
+//notes: tags:god-pve tags:"grade B for pve and pvp" tags:"masterwork stability or reload" tags:perks
+dimwishlist:item=1524387902&perks=3523296417,2922950962
+dimwishlist:item=1524387902&perks=1820235745,2922950962
+dimwishlist:item=1524387902&perks=1820235745,2109543898
+dimwishlist:item=1524387902&perks=3523296417,2109543898
+
+//notes: tags:god-pvp tags:"grade B for pve and pvp" tags:"masterwork range" tags:"hammer,accurrize"
+dimwishlist:item=1524387902&perks=3250034553,3142289711
+
+//notes: tags:god-pvp tags:"grade B for pve and pvp" tags:"masterwork range" tags:"perks dynamic,target lock"
+dimwishlist:item=1524387902&perks=1359896290,365154968
