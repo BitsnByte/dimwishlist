@@ -569,3 +569,19 @@ dimwishlist:item=2809120022&perks=1476923954,3751917991
 
 //notes: tags: god-tier tags: "Syntho ,Caliban"
 dimwishlist:item=2809120022&perks=3751917996,1476923956
+
+//boomslang Linear Fusion
+//notes: tags: god-pve tags: "masterwork stability or charge time"
+dimwishlist:item=3926153598&perks=839105230,1687452232,3987942396,555281244
+dimwishlist:item=3926153598&perks=839105230,1687452232,3987942396,1546637391
+dimwishlist:item=3926153598&perks=839105230,1687452232,247725512,555281244
+dimwishlist:item=3926153598&perks=839105230,1687452232,247725512,1546637391
+
+//notes: tags: god-pve tags: "masterwork stability or charge time" tags: "barrel and mag"
+dimwishlist:item=3926153598&perks=839105230,1687452232
+
+//notes: tags: god-pve tags: "masterwork stability or charge time" tags: "perk"
+dimwishlist:item=3926153598&perks=3987942396,555281244
+dimwishlist:item=3926153598&perks=3987942396,1546637391
+dimwishlist:item=3926153598&perks=247725512,555281244
+dimwishlist:item=3926153598&perks=247725512,1546637391
