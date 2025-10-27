@@ -64,3 +64,7 @@ Syntho + Caliban: https://dim.gg/cawwguq/BOOM-STICK
 (name:Relativism) perkname:"galanor" perkname:"star-eater"
 (name:Relativism) perkname:"ophidian" perkname:"wormhusk"
 (name:Relativism) perkname:"synthoceps" perkname:"caliban"
+
+#Titan
+dimwishlist:item=266021826&perks=3573490505,3573490500
+dimwishlist:item=266021826&perks=1476923953,1476923956
