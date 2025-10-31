@@ -550,14 +550,14 @@ dimwishlist:item=959037361&perks=981914802,3032599245
 dimwishlist:item=959037361&perks=1523832109,4293542123
 
 //Arcane Embrace
-//notes: tags: "masterwork handling" tags:god-pve tags: "grade B PVE, grade C PVP"
+//notes: tags: "masterwork handling" tags:god-pve tags: "grade B PVE, grade C PVP" tags: "Arcane Embrace"
 dimwishlist:item=3328019216&perks=1840239774,106909392,1354429876,555281244
 dimwishlist:item=3328019216&perks=1840239774,106909392,1354429876,3764420437
 
-//notes: tags: "masterwork handling" tags:god-pve tags: "grade B PVE, grade C PVP" tags: barrel
-dimwishlist:item=3328019216&perks=1840239774
+//notes: tags: "masterwork handling" tags:god-pve tags: "grade B PVE, grade C PVP" tags: barrel tags: "Arcane Embrace"
+dimwishlist:item=3328019216&perks=1840239774,106909392
 
-//notes: tags: "masterwork handling" tags:god-pve tags: "grade B PVE, grade C PVP" tags: perks
+//notes: tags: "masterwork handling" tags:god-pve tags: "grade B PVE, grade C PVP" tags: perks tags: "Arcane Embrace"
 dimwishlist:item=3328019216&perks=1354429876,555281244
 dimwishlist:item=3328019216&perks=1354429876,3764420437
 
