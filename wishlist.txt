@@ -670,3 +670,7 @@ dimwishlist:item=1175295126&perks=852209214,16392701,2579169598,3414324643
 dimwishlist:item=1175295126&perks=2579169598,3414324643
 //notes tags:"hush whsper" tags:god-pvp tags:"masterwork reload" tags:"polymer, fiberglass"
 dimwishlist:item=1175295126&perks=852209214,16392701
+
+//notes tags:"hush whsper" tags:god-pvp tags:"masterwork accuracy" 
+dimwishlist:item=1175295126&perks=852209214,2154191829,960997401,831391274
+dimwishlist:item=1175295126&perks=852209214,2154191829,960997401,3365897133
