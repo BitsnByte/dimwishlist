@@ -663,3 +663,10 @@ dimwishlist:item=1674692344&perks=1392496348,3177308360
 
 //notes tags:god-pvp tags: "tier B" tags: "Masterwork stability" tags: perks
 dimwishlist:item=1674692344&perks=588594999,3038247973
+
+//notes tags:"hush whsper" tags:god-pvp tags:"masterwork reload" 
+dimwishlist:item=1175295126&perks=852209214,16392701,2579169598,3414324643
+//notes tags:"hush whsper" tags:god-pvp tags:"masterwork reload" tags:"lone wolf, archer's gambit"
+dimwishlist:item=1175295126&perks=2579169598,3414324643
+//notes tags:"hush whsper" tags:god-pvp tags:"masterwork reload" tags:"polymer, fiberglass"
+dimwishlist:item=1175295126&perks=852209214,16392701
