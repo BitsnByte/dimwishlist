@@ -658,33 +658,33 @@ dimwishlist:item=1524387902&perks=3250034553,3142289711
 dimwishlist:item=1524387902&perks=1359896290,365154968
 
 //sublimnation
-//notes tags:god-pve tags: "tier B" tags: "Masterwork reload"
+//notes: tags:god-pve tags: "tier B" tags: "Masterwork reload"
 dimwishlist:item=1674692344&perks=1840239774,106909392,3700496672,3038247973
 dimwishlist:item=1674692344&perks=1840239774,106909392,3523296417,2173046394
 
-//notes tags:god-pve tags: "tier B" tags: "Masterwork reload" tags: "fluted, Tactical Mag"
+//notes: tags:god-pve tags: "tier B" tags: "Masterwork reload" tags: "fluted, Tactical Mag"
 dimwishlist:item=1674692344&perks=1840239774,106909392
 
-//notes tags:god-pve tags: "tier B" tags: "Masterwork reload" tags: perks
+//notes: tags:god-pve tags: "tier B" tags: "Masterwork reload" tags: perks
 dimwishlist:item=1674692344&perks=3700496672,3038247973
 dimwishlist:item=1674692344&perks=3523296417,2173046394
 
-//notes tags:god-pvp tags: "tier B" tags: "Masterwork stability"
+//notes: tags:god-pvp tags: "tier B" tags: "Masterwork stability"
 dimwishlist:item=1674692344&perks=1392496348,3177308360,588594999,3038247973
 
-//notes tags:god-pvp tags: "tier B" tags: "Masterwork stability" tags: "Polygon Rifling, steady round"
+//notes: tags:god-pvp tags: "tier B" tags: "Masterwork stability" tags: "Polygon Rifling, steady round"
 dimwishlist:item=1674692344&perks=1392496348,3177308360
 
-//notes tags:god-pvp tags: "tier B" tags: "Masterwork stability" tags: perks
+//notes: tags:god-pvp tags: "tier B" tags: "Masterwork stability" tags: perks
 dimwishlist:item=1674692344&perks=588594999,3038247973
 
-//notes tags:"hush whsper" tags:god-pvp tags:"masterwork reload" 
+//notes: tags:"hush whsper" tags:god-pvp tags:"masterwork reload" 
 dimwishlist:item=1175295126&perks=852209214,16392701,2579169598,3414324643
-//notes tags:"hush whsper" tags:god-pvp tags:"masterwork reload" tags:"lone wolf, archer's gambit"
+//notes: tags:"hush whsper" tags:god-pvp tags:"masterwork reload" tags:"lone wolf, archer's gambit"
 dimwishlist:item=1175295126&perks=2579169598,3414324643
-//notes tags:"hush whsper" tags:god-pvp tags:"masterwork reload" tags:"polymer, fiberglass"
+//notes: tags:"hush whsper" tags:god-pvp tags:"masterwork reload" tags:"polymer, fiberglass"
 dimwishlist:item=1175295126&perks=852209214,16392701
 
-//notes tags:"hush whsper" tags:god-pvp tags:"masterwork accuracy" 
+//notes: tags:"hush whsper" tags:god-pvp tags:"masterwork accuracy" 
 dimwishlist:item=1175295126&perks=852209214,2154191829,960997401,831391274
 dimwishlist:item=1175295126&perks=852209214,2154191829,960997401,3365897133
