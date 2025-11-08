@@ -688,3 +688,15 @@ dimwishlist:item=1175295126&perks=852209214,16392701
 //notes: tags:"hush whsper" tags:god-pvp tags:"masterwork accuracy" 
 dimwishlist:item=1175295126&perks=852209214,2154191829,960997401,831391274
 dimwishlist:item=1175295126&perks=852209214,2154191829,960997401,3365897133
+
+//Returned Memory
+//notes: tags:god-pve tags:"lead or healclipe, and incandescent" tags:"Masterwork handling"
+dimwishlist:item=4049127142&perks=3525010810,3230963543,3017780555,4293542123
+dimwishlist:item=4049127142&perks=3525010810,3230963543,1556840489,4293542123
+
+//notes: tags:god-pve tags:"lead or healclipe, and incandescent" tags:"Masterwork handling" tags:"barrel and mag"
+dimwishlist:item=4049127142&perks=3525010810,3230963543
+
+//notes: tags:god-pve tags:"lead or healclipe, and incandescent" tags:"Masterwork handling" tags:perks
+dimwishlist:item=4049127142&perks=3017780555,4293542123
+dimwishlist:item=4049127142&perks=1556840489,4293542123
