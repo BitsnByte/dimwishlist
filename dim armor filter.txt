@@ -26,6 +26,7 @@ name:"smoke" stat:resilience:>=0 stat:strength:>=30 stat:discipline:>=0 stat:int
 
 
 ======
+#Titan
 (exactperk:paragon and tertiarystat:grenade) or (exactperk:paragon and tertiarystat:class) or (exactperk:paragon and tertiarystat:weapons) or (exactperk:gunner and tertiarystat:melee) or (exactperk:gunner and tertiarystat:super) or (exactperk:gunner and tertiarystat:class) basestat:total:75 is:titan
 
 
@@ -41,13 +42,13 @@ or
 is:legendary is:titan -is:iningameloadout -is:indimloadout -notes:#minor
 
 =============
-#Gunner
-(exactperk:gunner and tertiarystat:melee) or (exactperk:gunner and tertiarystat:super) or (exactperk:gunner and tertiarystat:class) basestat:total:75 is:titan
+#Gunner Titan
+(exactperk:gunner and tertiarystat:melee) or (exactperk:gunner and tertiarystat:super) or (exactperk:gunner and tertiarystat:class) basestat:total:75 is:titan -is:locked
 Set notes to:
 #gunner #minor:class,melee,grenade
 
-#Paragon
-(exactperk:paragon and tertiarystat:grenade) or (exactperk:paragon and tertiarystat:class) or (exactperk:paragon and tertiarystat:weapons) basestat:total:75 is:titan
+#Paragon Titan
+(exactperk:paragon and tertiarystat:grenade) or (exactperk:paragon and tertiarystat:class) or (exactperk:paragon and tertiarystat:weapons) basestat:total:75 is:titan -is:locked
 Set notes to:
 #paragon #minor:class,melee,grenade
 
