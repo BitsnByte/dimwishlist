@@ -17,11 +17,14 @@ basestat:total:75 is:titan is:iningameloadout is:indimloadout tag:junk
 basestat:total:75 is:titan is:iningameloadout is:indimloadout tag:infuse
 ```
 
-# Query what to delete so we can tag it for delete
+# Query what to delete so we can tag it for delete  
+```
 is:legendary is:titan -is:iningameloadout -is:indimloadout -notes:#paragon -notes:#gunner
+```
 or
+```
 is:legendary is:titan -is:iningameloadout -is:indimloadout -notes:#minor
-
+```
 
 # Gunner Titan Filter  
 ```
