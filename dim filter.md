@@ -45,3 +45,9 @@ is:legendary is:titan -is:iningameloadout -is:indimloadout -notes:#minor
 ```
 #paragon #minor:class,melee,grenade
 ```
+# Hunter Armor Filter
+## Class filters 
+```
+(exactperk:specialist and tertiarystat:super) or (exactperk:specialist and tertiarystat:grenade) 
+	or (exactperk:specialist and tertiarystat:melee) or (exactperk:specialist and tertiarystat:weapons)
+```
