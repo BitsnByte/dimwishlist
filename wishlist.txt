@@ -703,3 +703,44 @@ dimwishlist:item=4049127142&perks=3525010810,3230963543
 //notes: tags:god-pve tags:"lead or healclipe, and incandescent" tags:"Masterwork handling" tags:perks
 dimwishlist:item=4049127142&perks=3017780555,4293542123
 dimwishlist:item=4049127142&perks=1556840489,4293542123
+
+//sidearm: forgiveness
+//notes: tags:god-pve tags: "A tier pve" tags: "fluted, flared" tags:"volt,demo and surrounded, disparate" tags:"masterwork handling"
+dimwishlist:item=1552443158&perks=1840239774,3230963543,2173046394,3708227201
+dimwishlist:item=1552443158&perks=1840239774,3230963543,2173046394,2109543898
+dimwishlist:item=1552443158&perks=1840239774,3230963543,3523296417,3708227201
+dimwishlist:item=1552443158&perks=1840239774,3230963543,3523296417,2109543898
+
+//notes: tags:god-pve tags: "A tier pve" tags: "fluted, flared" tags:"volt,demo and surrounded, disparate" tags:"masterwork handling"
+dimwishlist:item=1552443158&perks=1840239774,3230963543
+
+//notes: tags:god-pve tags: "A tier pve" tags: "fluted, flared" tags:"volt,demo and surrounded, disparate" tags:"masterwork handling"
+dimwishlist:item=1552443158&perks=2173046394,3708227201
+dimwishlist:item=1552443158&perks=2173046394,2109543898
+dimwishlist:item=1552443158&perks=3523296417,3708227201
+dimwishlist:item=1552443158&perks=3523296417,2109543898
+
+//notes: tags:god-pvp tags: "s tier pvp" tags: "small, ricochet" tags:"zen,lone,tap and head,kill" tags:"masterwork range"
+dimwishlist:item=1552443158&perks=1482024992,1885400500,2387244414,460017080,1939575288
+dimwishlist:item=1552443158&perks=1482024992,1885400500,2387244414,1015611457,1939575288
+
+dimwishlist:item=1552443158&perks=1482024992,1885400500,2579169598,460017080,1939575288
+dimwishlist:item=1552443158&perks=1482024992,1885400500,2579169598,1015611457,1939575288
+
+dimwishlist:item=1552443158&perks=1482024992,1885400500,1890422124,460017080,1939575288
+dimwishlist:item=1552443158&perks=1482024992,1885400500,1890422124,1015611457,1939575288
+
+//perks
+//notes: tags:god-pvp tags: "s tier pvp" tags: "small, ricochet" tags:"zen,lone,tap and head,kill" tags:"masterwork range"
+dimwishlist:item=1552443158&perks=2387244414,460017080,1939575288
+dimwishlist:item=1552443158&perks=2387244414,1015611457,1939575288
+
+dimwishlist:item=1552443158&perks=2579169598,460017080,1939575288
+dimwishlist:item=1552443158&perks=2579169598,1015611457,1939575288
+
+dimwishlist:item=1552443158&perks=1890422124,460017080,1939575288
+dimwishlist:item=1552443158&perks=1890422124,1015611457,1939575288
+
+//barrel and mag
+//notes: tags:god-pvp tags: "s tier pvp" tags: "small, ricochet" tags:"zen,lone,tap and head,kill" tags:"masterwork range"
+dimwishlist:item=1552443158&perks=1482024992,1885400500
