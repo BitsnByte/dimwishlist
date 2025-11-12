@@ -781,3 +781,11 @@ dimwishlist:item=1552443158&perks=1890422124,1015611457,1939575288
 //barrel and mag
 //notes: tags:god-pvp tags: "s tier pvp" tags: "small, ricochet" tags:"zen,lone,tap and head,kill" tags:"masterwork range"
 dimwishlist:item=1552443158&perks=1482024992,1885400500
+
+//Haliaetus PvE god rolls
+//notes: tags:god-pve tags:"quick Launch,impact casting" tags:"Auto,Envious Assassin and  Aggregate Charge, Elemental Honing" tags:"masterwork velocity"
+dimwishlist:item=2155534128&perks=3525010810,3796465595,951095735,1546142478
+dimwishlist:item=2155534128&perks=3525010810,3796465595,951095735,1089671869
+dimwishlist:item=2155534128&perks=3525010810
+dimwishlist:item=2155534128&perks=951095735,1546142478
+dimwishlist:item=2155534128&perks=951095735,1089671869
