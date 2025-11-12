@@ -638,7 +638,10 @@ dimwishlist:item=2273643087&perks=183430250,1476923955
 dimwishlist:item=2273643087&perks=183430252,183430247
 
 //notes: tags: god-tier tags: "assassin, syntoceps"
-dimwishlist:item=2273643087&perks=1476923952,1476923956
+dimwishlist:item=2273643087&perks=1476923952,1476923956\
+
+//notes: tags: god-tier tags:"inmost,swarm"
+dimwishlist:item=2273643087&perks=1476923953,183430246
 
 #Hunter
 //notes: tags: god-tier tags: "Inmost ,Cyrtarachne"
