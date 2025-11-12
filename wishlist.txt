@@ -205,6 +205,21 @@ dimwishlist:item=3496887154&perks=1451849462,4082225868
 //notes: tags:god-pvp, tags:"masterwork: range" tags:"hammer,accurized" tags:"slideshot,threat dectector,barrel constrictor and swashbuckler,one-two"
 dimwishlist:item=3496887154&perks=3250034553,3142289711
 
+//notes: tags:god-pve, tags:"masterwork: handling" tags:"fluted,append or flared" tags:"threat dectector, proximity and surrounded,incandescend,one-two punch"
+dimwishlist:item=3496887154&perks=1840239774,1087426260,4071163871,3708227201
+dimwishlist:item=3496887154&perks=1840239774,1087426260,4071163871,4293542123
+dimwishlist:item=3496887154&perks=1840239774,1087426260,4071163871,2679249093
+dimwishlist:item=3496887154&perks=1840239774,1087426260,4190679284,4293542123
+dimwishlist:item=3496887154&perks=1840239774,1087426260,4190679284,3708227201
+dimwishlist:item=3496887154&perks=1840239774,1087426260,4190679284,2679249093
+dimwishlist:item=3496887154&perks=1840239774,1087426260
+dimwishlist:item=3496887154&perks=1840239774,3230963543
+dimwishlist:item=3496887154&perks=4071163871,3708227201
+dimwishlist:item=3496887154&perks=4071163871,4293542123
+dimwishlist:item=3496887154&perks=4071163871,2679249093
+dimwishlist:item=3496887154&perks=4190679284,4293542123
+dimwishlist:item=3496887154&perks=4190679284,3708227201
+dimwishlist:item=3496887154&perks=4190679284,2679249093
 
 //Last Thursday, pulse rifle
 //notes: tags:god-pvp master work: range, barrel: Arrowhead Break
